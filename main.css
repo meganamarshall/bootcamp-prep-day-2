@@ -1,0 +1,15 @@
+body {
+    color: steelblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    border: 5px black;
+    padding: 5px;
+    color: royalblue;
+}
+
+.holder-type {
+    color: orange;
+    margin-top: 10px;
+}
